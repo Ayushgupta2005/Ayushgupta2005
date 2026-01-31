@@ -5,7 +5,4 @@
  
 - 🔭 I’m in my third year in Btech course in UPES, Dehradun. 
 - 🌱 Skilled in Python, C, and Java, and currently learning advanced concepts in Machine Learning and Deep Learning.
-- 💬My hobbies are playing football,MMA and hicking
- 
-- ⚡ Fun fact about me : I love sarcasm
  
